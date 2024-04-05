@@ -1,0 +1,17 @@
+.d-flex button{
+width: 250px;
+border-radius: 5px;
+}
+ 
+ .image img{
+    z-index: -1;
+    margin-top: -430px;
+    left: 270px;
+ }
+.one{
+    color: rgb(83, 134, 83);
+    font-size: 90px;
+}
+.two{
+    color: rgb(83, 134, 83);
+}
